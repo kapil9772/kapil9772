@@ -1,6 +1,6 @@
 # Hi, I'm Kapil Bhardwaj! 👋
 
-## 🧪 QA Automation Engineer
+## "🎯 Currently seeking Software Tester / QA Automation / API Testing roles"
 
 Passionate about building robust test automation frameworks
 that ensure software quality and reliability.
