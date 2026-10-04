@@ -38,6 +38,18 @@ that ensure software quality and reliability.
 
 ---
 
+### 3. 🌐 API Automation Framework
+- Built with Python Requests + PyTest
+- Schema validation, auth tests, data-driven testing
+- CI integrated with GitHub Actions
+- 🔗 [View Project](https://github.com/kapil9772/API-Automation-Framework)
+
+---
+
+| 🌐 Requests    | API Automation   |
+| ⚙️ GitHub Actions | CI/CD         |
+| 📈 Allure      | Advanced Reports |
+
 ## 📊 What I Test
 
 - ✅ Functional Testing
@@ -46,6 +58,13 @@ that ensure software quality and reliability.
 - ✅ End to End Testing
 
 ---
+## 🌱 Currently Learning
+- API Automation with Python Requests
+- CI/CD with GitHub Actions
+- Allure Reporting
+- SQL for test data validation
+
+
 
 ## 📈 GitHub Stats
 
