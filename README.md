@@ -45,6 +45,7 @@ that ensure software quality and reliability.
 - 🔗 [View Project](https://github.com/kapil9772/API-Automation-Framework)
 
 ---
+## Tools
 
 | 🌐 Requests    | API Automation   |
 | ⚙️ GitHub Actions | CI/CD         |
